@@ -6,7 +6,7 @@
 
 ## 🌏 [Website](http://demoim.co.kr)
 ## ▶️ [Youtube](https://www.youtube.com/watch?v=fzInCo4VSLE)
-## 🄽 [TroubleShooting]()
+## 🄽 [TroubleShooting](https://www.notion.so/TroubleShooting-a164a0d38b304287916e209c1c6df661)
 
 <br>
 
